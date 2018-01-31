@@ -1,4 +1,4 @@
-# SET09117 Coursework - Checkers Game #
+# Checkers Game #
 
 * A text based Checkers/Draughts game
 * Written in Perl 5
