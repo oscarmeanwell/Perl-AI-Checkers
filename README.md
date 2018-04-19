@@ -25,13 +25,13 @@
 ### I have to install the JSON module myself, how? ###
 
 * Run these commands in the shown order,then re-run the program.
-* wget http://search.cpan.org/CPAN/authors/id/I/IS/ISHIGAKI/JSON-2.94.tar.gz
-* tar -zxvf JSON-2.94.tar.gz
-* cd JSON-2.94
-* perl Makefile.PL
-* make
-* make test
-* sudo make install
+* `wget http://search.cpan.org/CPAN/authors/id/I/IS/ISHIGAKI/JSON-2.94.tar.gz`
+* `tar -zxvf JSON-2.94.tar.gz`
+* `cd JSON-2.94`
+* `perl Makefile.PL`
+* `make`
+* `make test`
+* `sudo make install`
 
 ### Who do I talk to? ###
 
