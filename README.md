@@ -8,13 +8,13 @@
 * Clone the repo to a unix based machine
 * Providing Perl 5 is installed, use the command line to navigate to the sourcecode
   directory and type `perl checkers.pl`
-* The only additional requirement for this program is a JSON [module](http://search.cpan.org/~ishigaki/JSON-2.94/lib/JSON.pm) from CPAN
-  every time you run the game it will check if this module is installed and if
+* The only additional requirement for this program is a JSON [module](http://search.cpan.org/~ishigaki/JSON-2.94/lib/JSON.pm) from CPAN.
+  Every time you run the game it will check if this module is installed and if
   not it will install it. If the install fails a manual install may be necessary.
  
 * If you want to run the program from a shell script, navigate to the executable
-  directory, change the permission of the script "runme.sh" so that you can execute
-  it. To do this - "chmod +x runme.sh", to then execute ./runme.sh
+  directory, change the permission of the script `runme.sh` so that you can execute
+  it. To do this - `chmod +x runme.sh`, to then execute `./runme.sh`
 
 ### How do I play? ###
 * There is a section within the main menu called rules, one called help - these will
