@@ -34,7 +34,7 @@
 * `sudo make install`
 
 ### Lets see? ###
-[![Alt text](https://www.youtube.com/watch?v=qFtc9W2nZKE)](https://www.youtube.com/watch?v=qFtc9W2nZKE)
+[![Alt text](https://img.youtube.com/vi/qFtc9W2nZKE/0.jpg)](https://www.youtube.com/watch?v=qFtc9W2nZKE)
 ### Who do I talk to? ###
 
 * Oscar Meanwell - oscarmeanwell@gmail.com
