@@ -34,8 +34,7 @@
 * `sudo make install`
 
 ### Lets see? ###
-<iframe width="1280" height="480" src="https://www.youtube.com/embed/qFtc9W2nZKE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-[![Alt text](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=qFtc9W2nZKE)
+[![Alt text](https://www.youtube.com/watch?v=qFtc9W2nZKE)](https://www.youtube.com/watch?v=qFtc9W2nZKE)
 ### Who do I talk to? ###
 
 * Oscar Meanwell - oscarmeanwell@gmail.com
